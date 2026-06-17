@@ -4,5 +4,4 @@ numpy
 plotly
 seaborn
 matplotlib
-matplotlib==3.10.3
 openpyxl
