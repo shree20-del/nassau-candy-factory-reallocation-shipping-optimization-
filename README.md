@@ -14,7 +14,7 @@ The project transforms raw operational and sales data into actionable business i
 
 ## 🚀 Live Dashboard
 
-🔗 Live App:  
+🔗 Live App: https://shreeee-can-do-it.streamlit.app/ 
 
 
 ---
